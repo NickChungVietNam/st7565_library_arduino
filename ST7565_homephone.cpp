@@ -19,7 +19,7 @@ Up loaded to Arduino.vn
 31/10/2016 get_xy_ellipse và sphere
 15/12/2016 hỗ trợ thay đổi cỡ chữ 
 Thư viện nguồn mở, bạn có thể thay đổi hoặc sử dụng cho mục đích khác, đăng tải ở bất cứ đâu
-(có ghi chú )nếu nó hợp pháp và không vi phạm các quy tắc trong cộng đồng nguồn mở!
+(có ghi chú tác giả Thái Sơn và ghi chú nội dung chỉnh sửa + tên mình )nếu nó hợp pháp và không vi phạm các quy tắc trong cộng đồng nguồn mở!
 
 
 Copyright (C) 2010 Limor Fried, Adafruit Industries
